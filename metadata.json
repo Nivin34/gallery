@@ -1,0 +1,8 @@
+{
+  "name": "FolioVault",
+  "description": "Role-based Note Gallery and rich-text publishing workspace with secure object storage, TipTap editorial notes, and granular admin access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

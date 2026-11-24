@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "name": "nivin",
+      "email": "nivin33456@gmail.com",
+      "bio": "",
+      "passwordHash": "d5cc327839d635e127787a4c9a5638cf:b32ac1c10bf13867534629b48c38f6f450c2d740db62825febc05b1c1682913b265502f4a1ed185792518c4953bef97504bc8d38d701876f6676350e268034fd",
+      "recoveryCodeHash": "7fb764ab76f0eeab90db470f74d50771:49d14e85032dc9b3e8519fb393d44c00abe3018492086831ef151257f6171420e3eeb13f1e3f3f7f7fa4ab655b004e4a03672e690722f45fcefcd2e9145c28a0",
+      "emailVerificationTokenHash": "06c9adc33f0d33600691d371e9974c68c1bc944bd214471165d13fed731e5447",
+      "id": "24c7e788-43a4-43bb-98d3-94013a6267cc",
+      "role": "admin",
+      "status": "approved",
+      "isActive": true,
+      "emailVerified": true,
+      "permissionLevel": "view_edit_delete",
+      "canPublishPublic": true,
+      "maxFileCount": 1000,
+      "maxFileSizeMB": 50,
+      "maxStorageMB": 2048,
+      "tokenVersion": 3,
+      "themePreference": "light",
+      "createdAt": "2026-11-23T11:56:23.774Z",
+      "updatedAt": "2026-11-23T12:12:23.963Z"
+    },
+    {
+      "name": "Alex",
+      "email": "acetemp345@gmail.com",
+      "bio": "",
+      "passwordHash": "466d8d8cd430e27fdd4945365365fc1a:44ecef40bb1ce36bd160c54bc7897a0b4f3676394773c3593afec8cdaae0db35d496bdb465cef4575135f5cf1470966c74c6477ad68814a2f06f143bdceb7de9",
+      "recoveryCodeHash": "df19d1565c89407b0adfe2584a29c0a5:86f57be7369c167e2af6d4da4575d623ed710dbac43e2cb3b94f88162debf3f967897aeac2f84d80c5f4a8a3f913a96bfb62700f97efbc18319365f225de833f",
+      "emailVerificationTokenHash": null,
+      "id": "e8b83a61-4e70-47ad-851f-1423ccb91e4a",
+      "role": "user",
+      "status": "pending",
+      "isActive": true,
+      "emailVerified": true,
+      "permissionLevel": "view_edit_delete",
+      "canPublishPublic": true,
+      "maxFileCount": 100,
+      "maxFileSizeMB": 10,
+      "maxStorageMB": 250,
+      "tokenVersion": 1,
+      "themePreference": "light",
+      "createdAt": "2026-11-23T12:09:44.367Z",
+      "updatedAt": "2026-11-23T12:09:50.257Z"
+    }
+  ],
+  "files": [],
+  "notes": [],
+  "resetTokens": [
+    {
+      "id": "c71b1704-27ba-4d27-91b8-684fd2ca5ab4",
+      "userId": "24c7e788-43a4-43bb-98d3-94013a6267cc",
+      "tokenHash": "864eeaee0c28229d0fb3c8db374b7e06524da61ebd58c31946a830b70046c73a",
+      "expiresAt": "2026-11-23T12:58:28.171Z",
+      "used": false,
+      "createdAt": "2026-11-23T11:58:28.171Z"
+    }
+  ],
+  "resetRequests": []
+}
